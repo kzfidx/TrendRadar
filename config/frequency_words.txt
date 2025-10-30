@@ -1,36 +1,71 @@
-苹果
 Apple
+苹果
 +发布
 !水果
 
-苹果
 Apple
+苹果
 +更新
 !水果
 
-人工智能
-ai
+Apple
+iPhone
+iPad
+Mac
+iOS
+iPadOS
+macOS
+苹果
+!水果
+
+AI
+智能
 +最新
+!gai
+
+AI
+智能
++发布
+!gai
+
+AI
+智能
++新增
+!gai
+
+AI
+智能
++上线
 !gai
 
 谷歌
 google
-+发布
+gemini
+notebooklm
+aistudio
+aikitchen
 
 openai
-+发布
+ChatGPT
 
 Anthropic
-+发布
+Claude
 
+GitHub
+ProdoctHunt
+HackerNews
 
-中国
-+广州
+电影
+电视剧
++新
+
+广州
+
 
 科技
 +最新
 
 旅游
 国内
-+攻略
++推荐
 !广告
