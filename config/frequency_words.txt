@@ -14,11 +14,25 @@ macOS
 Google
 谷歌
 Gemini
+Veo
+
+OpenAI
+ChatGPT
+Sora
+
+Anthropic
+Claude
+
+飞书
+
+腾讯
+微信
 
 AI
 智能
 Apple
 苹果
+Anthropic
 Google
 谷歌
 OpenAI
@@ -28,6 +42,7 @@ AI
 智能
 Apple
 苹果
+Anthropic
 Google
 谷歌
 OpenAI
@@ -37,7 +52,22 @@ AI
 智能
 !mail
 
+本周看什么
+App+1
+新玩意
+众测
+派评
+
+上线
+发布
+更新
+
 免费
 限免
 
+广东
 广州
+香港
+粤
+
+五月天
