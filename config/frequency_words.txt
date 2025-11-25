@@ -1,113 +1,75 @@
-胖东来
-于东来
+Apple
+苹果
+iPhone
+iPad
+Mac
+MacBook
+apple watch
+apple tv
+iCloud
+iOS
+iPadOS
+macOS
 
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
+Google
 谷歌
-google
-gemini
-deepmind
+Gemini
+AI studio
 
-chatgpt
-openai
-sora
+OpenAI
+ChatGPT
+Sora
 
-claude
 Anthropic
+Claude
 
-iphone
-ipad
-mac
-ios
+飞书
 
-ai
-!gai
-人工智能
+腾讯
+微信
 
-自动驾驶
+AI
+智能
+Apple
+苹果
+Anthropic
+Google
+谷歌
+OpenAI
++发布
 
-机器人
+AI
+智能
+Apple
+苹果
+Anthropic
+Google
+谷歌
+OpenAI
++更新
 
-国产
-中国
+AI
+智能
+!mail
 
-美国
-日本
-韩国
+本周看什么
+App+1
+新玩意
+众测
+派评
 
-芯片
-光刻机
+上线
+发布
+更新
+官宣
+推出
 
-科技
+免费
+限免
 
-核能
+广东
+广州
+香港
+粤
 
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+五月天
